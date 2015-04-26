@@ -1,0 +1,8 @@
+{application, erlypt,
+ [
+  {description, "Erlang pattern translator"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []}
+ ]}.
